@@ -15,14 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="p10250_Downstairs.cpp">
-      <Filter>头文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1216_Number_Triangles.cpp">
-      <Filter>头文件</Filter>
+    <ClCompile Include="p1115_最大子段和.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p1192_台阶问题.cpp">
-      <Filter>头文件</Filter>
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1216_Number_Triangles.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p10250_Downstairs.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

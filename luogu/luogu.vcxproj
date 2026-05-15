@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p1115_最大子段和.cpp" />
     <ClCompile Include="p1192_台阶问题.cpp" />
     <ClCompile Include="p1216_Number_Triangles.cpp" />
     <ClCompile Include="p10250_Downstairs.cpp" />
