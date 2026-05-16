@@ -27,5 +27,11 @@
     <ClCompile Include="p10250_Downstairs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p5888_传球游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1057_传球游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
